@@ -1,0 +1,11 @@
+.photo-comment img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+.main-comment{
+    margin: 25px 100px 25px 100px;
+    padding: 20px;
+    border: 2px solid limegreen;
+    border-radius: 20px;
+}
